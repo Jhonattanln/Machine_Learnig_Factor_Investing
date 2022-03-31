@@ -1,2 +1,2 @@
-# Machine_Learnig_Factor_Investing
- Trabalho de conclusão de curso-
+# Machine Learnig Factor Investing
+ Trabalho de conclusão de curso
